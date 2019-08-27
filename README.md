@@ -7,6 +7,9 @@ Marlin is an optimized firmware for [RepRap 3D printers](http://reprap.org/) bas
 [![Travis Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg)](https://travis-ci.org/MarlinFirmware/Marlin)
 [![Flattr Us!](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
 
+## ADIMLab 1.1.9
+This is a version of Marlin for the ADIMLab gantry printer. This build only works for the "White Board" hardware verrsion. 
+
 ## Marlin 1.1.x
 
 The 1.1.x branch is home to all tagged releases of Marlin 1.1 (final version 1.1.9 – July 2018).
