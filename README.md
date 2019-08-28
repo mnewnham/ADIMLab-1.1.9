@@ -8,7 +8,8 @@ Marlin is an optimized firmware for [RepRap 3D printers](http://reprap.org/) bas
 [![Flattr Us!](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
 
 ## ADIMLab 1.1.9
-This is a version of Marlin for the ADIMLab gantry printer. This build only works for the "White Board" hardware verrsion. 
+This is a version of Marlin for the ADIMLab gantry printer. This build only works for the "White Board" hardware version. This branch supports dual cooling fans. 
+
 
 ## Marlin 1.1.x
 
